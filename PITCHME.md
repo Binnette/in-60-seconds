@@ -52,6 +52,18 @@
 ![](http://img.over-blog-kiwi.com/2/16/58/04/20180507/ob_9dc3ae_logo-geocaching-emerald.png)
 @snapend
 
+@snap[south-west fragment]
+![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Snapchat_logo.svg/240px-Snapchat_logo.svg.png)
+@snapend
+
+@snap[south fragment]
+![](https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Qwant_Maps.png)
+@snapend
+
+@snap[south-est fragment]
+![](https://techsuplex.com/wp-content/uploads/2014/09/etc-2.png)
+@snapend
+
 ---
 
 ## The end
