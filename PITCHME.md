@@ -1,48 +1,24 @@
-# Let's Get Started
+## OpenStreetMap
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/240px-Openstreetmap_logo.svg.png)
 
 ---
-
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
-
----
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
----?color=#E58537
 @title[Add A Little Imagination]
 
 @snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+#### OpenStreetMap en quelques @color[cyan](**chiffres**) :
 @snapend
 
 @snap[west span-55]
 @ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+- Lancé en 2004 à Londres... soit 3 ans après Wikipédia
+- 5 millions d'utilisateurs enregistrés
+- 300 000 contributeurs actifs sur l'année 2018
+- 3 millions d'éditions par jours
 @ulend
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@img[shadow](https://wiki.openstreetmap.org/w/images/thumb/7/79/Osmdbstats1_users.png/800px-Osmdbstats1_users.png)
 @snapend
 
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
-
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
