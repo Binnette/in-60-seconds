@@ -10,7 +10,7 @@
 @snapend
 
 @snap[west span-55]
-@ul[spaced text-white]
+@ul[spaced]
 - Lancé en 2004 à Londres... soit 3 ans après Wikipédia
 - 5 millions d'utilisateurs enregistrés
 - 300 000 contributeurs actifs sur l'année 2018
