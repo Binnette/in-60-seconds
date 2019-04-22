@@ -33,11 +33,23 @@
 @snapend
 
 @snap[north fragment]
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logo_M%C3%A9tromobilit%C3%A9.png/240px-Logo_M%C3%A9tromobilit%C3%A9.png
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logo_M%C3%A9tromobilit%C3%A9.png/240px-Logo_M%C3%A9tromobilit%C3%A9.png)
 @snapend
 
 @snap[north-east fragment]
 ![](https://fr.wikipedia.org/wiki/Fichier:Pok%C3%A9mon_Go_Logo.png)
+@snapend
+
+@snap[west fragment]
+![](https://www.camptocamp.org/img/logo.38aac8ab.svg)
+@snapend
+
+@snap[midpoint fragment]
+![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png)
+@snapend
+
+@snap[east fragment]
+![](http://img.over-blog-kiwi.com/2/16/58/04/20180507/ob_9dc3ae_logo-geocaching-emerald.png)
 @snapend
 
 ---
