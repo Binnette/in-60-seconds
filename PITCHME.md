@@ -22,4 +22,4 @@
 @img[shadow](https://wiki.openstreetmap.org/w/images/thumb/7/79/Osmdbstats1_users.png/800px-Osmdbstats1_users.png)
 @snapend
 
-----
+---
