@@ -6,7 +6,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west]
-#### OpenStreetMap en quelques @color[cyan](**chiffres**) :
+#### OpenStreetMap en quelques chiffres
 @snapend
 
 @snap[west span-55]
@@ -23,3 +23,5 @@
 @snapend
 
 ---
+
+## The end
