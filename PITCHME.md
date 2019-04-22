@@ -24,4 +24,22 @@
 
 ---
 
+@snap[north-west]
+#### Utilisez vous déjà OpenStreetMap ?
+@snapend
+
+@snap[north-west fragment]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png)
+@snapend
+
+@snap[north fragment]
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logo_M%C3%A9tromobilit%C3%A9.png/240px-Logo_M%C3%A9tromobilit%C3%A9.png
+@snapend
+
+@snap[north-east fragment]
+![](https://fr.wikipedia.org/wiki/Fichier:Pok%C3%A9mon_Go_Logo.png)
+@snapend
+
+---
+
 ## The end
