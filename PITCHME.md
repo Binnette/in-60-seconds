@@ -24,9 +24,9 @@
 
 ---
 
-@snap[north-west]
-#### Utilisez vous déjà OpenStreetMap ?
-@snapend
+# Utilisez vous déjà OpenStreetMap ?
+
+---
 
 @snap[north-west span-20 fragment]
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png)
