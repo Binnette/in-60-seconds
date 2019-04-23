@@ -37,7 +37,7 @@
 @snapend
 
 @snap[north-east span-20 fragment]
-![](https://fr.wikipedia.org/wiki/Fichier:Pok%C3%A9mon_Go_Logo.png)
+![](https://upload.wikimedia.org/wikipedia/fr/7/75/Pok%C3%A9mon_Go_Logo.png)
 @snapend
 
 @snap[west span-20 fragment]
