@@ -60,7 +60,7 @@
 ![](https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Qwant_Maps.png)
 @snapend
 
-@snap[south-est span-20 fragment]
+@snap[south-east span-20 fragment]
 ![](https://techsuplex.com/wp-content/uploads/2014/09/etc-2.png)
 @snapend
 
