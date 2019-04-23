@@ -28,39 +28,39 @@
 #### Utilisez vous déjà OpenStreetMap ?
 @snapend
 
-@snap[north-west fragment]
+@snap[north-west span-20 fragment]
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png)
 @snapend
 
-@snap[north fragment]
+@snap[north span-20 fragment]
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logo_M%C3%A9tromobilit%C3%A9.png/240px-Logo_M%C3%A9tromobilit%C3%A9.png)
 @snapend
 
-@snap[north-east fragment]
+@snap[north-east span-20 fragment]
 ![](https://fr.wikipedia.org/wiki/Fichier:Pok%C3%A9mon_Go_Logo.png)
 @snapend
 
-@snap[west fragment]
+@snap[west span-20 fragment]
 ![](https://www.camptocamp.org/img/logo.38aac8ab.svg)
 @snapend
 
-@snap[midpoint fragment]
+@snap[midpoint span-20 fragment]
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png)
 @snapend
 
-@snap[east fragment]
+@snap[east span-20 fragment]
 ![](http://img.over-blog-kiwi.com/2/16/58/04/20180507/ob_9dc3ae_logo-geocaching-emerald.png)
 @snapend
 
-@snap[south-west fragment]
+@snap[south-west span-20 fragment]
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Snapchat_logo.svg/240px-Snapchat_logo.svg.png)
 @snapend
 
-@snap[south fragment]
+@snap[south span-20 fragment]
 ![](https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Qwant_Maps.png)
 @snapend
 
-@snap[south-est fragment]
+@snap[south-est span-20 fragment]
 ![](https://techsuplex.com/wp-content/uploads/2014/09/etc-2.png)
 @snapend
 
