@@ -66,7 +66,11 @@
 
 ---
 
-## Atelier
+## Atelier : contribuons !
+
+---
+
+## Atelier : exploiter les données avec overpass
 
 ---
 
@@ -89,8 +93,6 @@
 @snap[east span-33]
 ![3](https://leafletjs.com/examples/mobile/thumbnail.png)
 @snapend
-
-
 
 ---
 
