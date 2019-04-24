@@ -82,7 +82,7 @@
 ![1](https://leafletjs.com/examples/quick-start/thumbnail.png)
 @snapend
 
-@snap[middle span-33]
+@snap[midpoint span-33]
 ![2](https://leafletjs.com/examples/choropleth/thumbnail.png)
 @snapend
 
