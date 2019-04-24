@@ -76,7 +76,7 @@
 
 @snap[north-west]
 #### Et pour les développeurs ?
-@ul
+@ul[](false)
 - https://leafletjs.com/
 - https://wiki.openstreetmap.org/wiki/Frameworks (SDK JAVA, C#, C++, etc.)
 @ulend
