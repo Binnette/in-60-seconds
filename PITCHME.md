@@ -72,11 +72,21 @@
 
 ## Et pour les développeurs ?
 
-@snap[west]
-@ul[spaced]
-- https://wiki.openstreetmap.org/wiki/Frameworks (SDK JAVA, C#, C++, etc.)
+@snap[north-west]
 - https://leafletjs.com/
-@ulend
+- https://wiki.openstreetmap.org/wiki/Frameworks (SDK JAVA, C#, C++, etc.)
+@snapend
+
+@snap[west span-33]
+![1](https://leafletjs.com/examples/quick-start/thumbnail.png)
+@snapend
+
+@snap[middle span-33]
+![2](https://leafletjs.com/examples/choropleth/thumbnail.png)
+@snapend
+
+@snap[east span-33]
+![3](https://leafletjs.com/examples/mobile/thumbnail.png)
 @snapend
 
 
