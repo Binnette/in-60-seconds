@@ -2,8 +2,11 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Openstreetmap_logo.svg/240px-Openstreetmap_logo.svg.png)
 
+@snap[south]
+(Prenez votre PC !)
+@snapend
+
 ---
-@title[Add A Little Imagination]
 
 @snap[north-west]
 #### OpenStreetMap en quelques chiffres
@@ -67,6 +70,10 @@
 ---
 
 ## Atelier : contribuons !
+
+---
+
+## Démo : et sur mobile ?
 
 ---
 
